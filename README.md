@@ -24,9 +24,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  |     Project's Name     |                      Description                      |                       GitHub's Link                       |
 | :-: | :---------------------: | :----------------------------------------------------: | :--------------------------------------------------------: |
-| 1 |    Front End Mentor    |        Landing page for an e-learning platform        |    https://github.com/aaronayitey/Front-End-Mentor.git    |
-| 2 |     Project Hangman     |                   A python text game                   |     https://github.com/aaronayitey/Project_Hangman.git     |
-| 3 | Shifting the MNIST Data | A python function to shift images in the MNIST dataset | https://github.com/aaronayitey/SHIFTING-THE-MNIST-DATA.git |
+| 1 |    Landing_page    |        Landing page for an e-learning platform        |    https://github.com/aaronayitey/Landing_page.git    |
+| 2 |     Hangman     |                   A python text game                   |     https://github.com/aaronayitey/Hangman.git     |
+| 3 | mnist | A python function to shift images in the MNIST dataset | https://github.com/aaronayitey/mnist.git |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
